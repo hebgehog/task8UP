@@ -1,0 +1,7 @@
+C:\Users\alina\Desktop\HSE\ПРАКТИКА\ЗАДАЧИ\ЗАДАЧА 8\task8UP\task8UP\bin\Debug\task8UP.exe.config
+C:\Users\alina\Desktop\HSE\ПРАКТИКА\ЗАДАЧИ\ЗАДАЧА 8\task8UP\task8UP\bin\Debug\task8UP.exe
+C:\Users\alina\Desktop\HSE\ПРАКТИКА\ЗАДАЧИ\ЗАДАЧА 8\task8UP\task8UP\bin\Debug\task8UP.pdb
+C:\Users\alina\Desktop\HSE\ПРАКТИКА\ЗАДАЧИ\ЗАДАЧА 8\task8UP\task8UP\obj\Debug\task8UP.csprojAssemblyReference.cache
+C:\Users\alina\Desktop\HSE\ПРАКТИКА\ЗАДАЧИ\ЗАДАЧА 8\task8UP\task8UP\obj\Debug\task8UP.csproj.CoreCompileInputs.cache
+C:\Users\alina\Desktop\HSE\ПРАКТИКА\ЗАДАЧИ\ЗАДАЧА 8\task8UP\task8UP\obj\Debug\task8UP.exe
+C:\Users\alina\Desktop\HSE\ПРАКТИКА\ЗАДАЧИ\ЗАДАЧА 8\task8UP\task8UP\obj\Debug\task8UP.pdb
